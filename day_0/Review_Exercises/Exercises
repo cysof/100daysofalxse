@@ -1,0 +1,10 @@
+1. Display some text using print().
+2. Using the interactive window, assign a string literal to a variable.
+Then print the contents of the variable using the print() function.
+
+
+Print a string that uses double quotation marks inside the string.
+2. Print a string that uses an apostrophe inside the string.
+3. Print a string that spans multiple lines with whitespace preserved.
+4. Print a string that is coded on multiple lines but gets printed on a
+single line.
